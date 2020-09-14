@@ -48,7 +48,7 @@
     <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://github.com/enraiha0307/BackgroundChange-OnScroll">View Demo</a>
+    <a href="https://naughty-euclid-b5ea25.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/enraiha0307/BackgroundChange-OnScroll/issues">Report Bug</a>
     ·
@@ -75,8 +75,8 @@
 ### Built With
 
 * [HTML]
-*[CSS]
-*[Javascript]
+* [CSS]
+* [Javascript]
 
 
 
