@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#ECD7B6;
+    font-family: 'Lora','Playfair Display', sans-serif;
+    color: #202020;
+    transition: all 0.5s ease;
+}
+header{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+.intro-text h1{
+font-size: 70px;
+font-weight: 200;
+margin-bottom: 10px;
+}
+.intro-text p{
+    font-size: 22px;
+}
+section{
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.page2{
+text-align: center;
+width: 70%;
+}
+.page2 h1{
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-weight: 200;
+}
+.page2 p{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+section img{
+    /* width: 80%;
+    height:78%; */
+    
+    object-fit: cover;
+}
+.bg-active{
+background-color:#202020;
+color: white;
+}
