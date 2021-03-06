@@ -64,8 +64,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Screenshot_2020-09-14 Background Change](https://user-images.githubusercontent.com/26249973/93087128-c3a36400-f6b5-11ea-9714-1f449a3f0251.png)
+![Desktop - 12bg](https://user-images.githubusercontent.com/26249973/110199515-bb66fd00-7e7e-11eb-83aa-b889c3b21ff2.png)
 
 
 
